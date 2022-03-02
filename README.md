@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rushikeshkokane
-- 👀 I’m interested in Web development,problem solving,Reading books,playing games.
+- 👀 I’m interested in Web development,problem solving and python programming.
 - 🌱 I’m currently pursing my B.tech in Information Technology from Sanjivani College of Engineering,Kopargaon
 
 <!---
